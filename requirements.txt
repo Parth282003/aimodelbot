@@ -4,4 +4,9 @@ pymongo
 python-dotenv
 dnspython
 requests
-google-genai
+google-generativeai
+serpapi
+requests
+pandas
+datetime
+uuid
